@@ -81,9 +81,9 @@
 ✔️ Basic experience in sensor integration and system setup.  
 
 ### 🪖 Edge Intelligence-based Smart Soldier Safety Monitoring System (Ongoing)
-✔️ IEEE project on Real-time Soldier Safety Monitoring using Edge Intelligence with a simple ML model.  
+✔️ IEEE paper project on Real-time Soldier Safety Monitoring using Edge Intelligence with a simple ML model.  
+✔️ ESP32 WROOM-32 microcontroller and LoRa-based communication between transmitter and receiver (LoRa Ra-02 is used).  
 ✔️ Sensor integration: MAX30102 (Heart Rate + SpO2), MPU6050 (Motion), DHT22 (Temperature and Humidity), GPS NEO-6M.  
-✔️ Using ESP32 WROOM-32 microcontroller and LoRa-based communication between transmitter and base station (LoRa Ra-02 is used).  
 ✔️ Simple ML model-Decision Tree for basic health risk prediction.  
 ✔️ AWS cloud integration for data storage and monitoring.  
  
