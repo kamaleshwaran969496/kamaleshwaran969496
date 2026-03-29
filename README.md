@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Kamaleshwaran M</h1>
+<h3 align="center">Electronics and Communication Engineering student (4th Semester)</h3>
+<h3 align="center">ML | IoT | Embedded Systems</h3>
+  
+<p align="center">
+📫 Email: <b>ksr969496@gmail.com</b>
+</p>
 
-<!--
-**kamaleshwaran969496/kamaleshwaran969496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Electronics Student | ML | IoT & Embedded Systems
+
+🔹 Interested in building systems that combine **machine learning**, **IoT**, and **embedded hardware**.
+
+🔹 Focused on understanding **sensor integration**, **real-time data processing**, and **basic ML applications** in embedded environments.
+
+🔹 **Currently Working On**: Edge intelligence-based smart soldier safety monitoring system (IEEE project).
+
+🔹 **Learning**: Machine learning fundamentals, embedded system design, and IoT communication technologies.
+
+## 🎯 My Goals
+
+🔹 Apply machine learning in **real-world embedded and IoT systems**.
+
+🔹 Improve understanding of **low-power system design and communication protocols**.
+
+🔹 Build and document projects combining **AIML, IoT, and embedded systems**.
+
+🔹 Develop practical skills for **engineering and problem-solving** in this domain.
+
+---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+
+<a href="https://www.linkedin.com/in/kamaleshwaran-m-718849324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamaleshwaran-m-718849324" height="30" width="40" /></a>
+</p>
+
+---
+
+
+### IDE and Tools I Use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
+---
+
+## 🔧 Projects
+
+### 𖥂 Embedded Systems & IoT (Initial Work)
+✔️ Weather monitoring and forecasting drone (prototype stage).  
+✔️ Basic experience in sensor integration and system setup.  
+
+### 🪖 Edge Intelligence-based Smart Soldier Safety Monitoring System (Ongoing)
+✔️ IEEE project on real-time soldier health and environment monitoring.  
+✔️ Sensor integration: heart rate, motion, temperature, GPS.  
+✔️ LoRa-based communication between transmitter and base station.  
+✔️ Simple ML model-Decision Tree for basic health risk prediction.  
+✔️ AWS cloud integration for data storage and monitoring.  
+ 
+
+### ⚡ Power & Communication Improvements (Upcoming)
+✔️ Continuation of the Edge Intelligence-based Smart Soldier Safety Monitoring System.  
+✔️ Power stability using Lithium-ion battery with voltage regulator and battery protection (BMS).  
+✔️ Preventing damage due to voltage fluctuations in embedded systems.  
+✔️ Secure LoRa communication using data encryption.  
+✔️ Focus on low-power and reliable deployment.  
+
+---
