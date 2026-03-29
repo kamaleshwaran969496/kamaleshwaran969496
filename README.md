@@ -1,5 +1,5 @@
 <h1 align="center">Kamaleshwaran M</h1>
-<h3 align="center">Electronics and Communication Engineering student (4th Semester)</h3>
+<h3 align="center">Electronics and Communication Engineering student (2nd year)</h3>
 <h3 align="center">ML | IoT | Embedded Systems</h3>
   
 <p align="center">
@@ -90,8 +90,8 @@
 
 ### ⚡ Power & Communication Improvements (Upcoming)
 ✔️ Continuation of the Edge Intelligence-based Smart Soldier Safety Monitoring System.  
-✔️ Power stability using Lithium-ion battery with voltage regulator and battery protection (BMS).  
-✔️ Preventing damage due to voltage fluctuations in embedded systems.  
+✔️ Power stability using Lithium-ion battery with AMS1117-3.3V Voltage regulator module and TP4056 Battery Protection (BMS) module.  
+✔️ These AMS1117-3.3V and TP4056 module is to prevent damage due to voltage fluctuations caused by Lithium-ion battery. 
 ✔️ Secure LoRa communication using data encryption.  
 ✔️ Focus on low-power and reliable deployment.  
 
