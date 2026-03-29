@@ -12,13 +12,13 @@
 
 ### Electronics Student | ML | IoT & Embedded Systems  
 
-🔹 Interested in building systems that combine **machine learning**, **IoT**, and **embedded hardware**.
+🔹 Interested in building systems that combine **Machine Learning**, **IoT**, and **Embedded hardware**.
 
-🔹 Focused on understanding **sensor integration**, **real-time data processing**, and **basic ML applications** in embedded environments.
+🔹 Focused on understanding **Sensor integration**, **Real-time data processing**, and **Basic ML applications** in embedded environments.
 
-🔹 **Currently Working On**: Edge intelligence-based smart soldier safety monitoring system (IEEE project).
+🔹 **Currently Working On**: Edge Intelligence-based Smart Soldier Safety Monitoring System (IEEE project).
 
-🔹 **Learning**: Machine learning fundamentals, embedded system design, and IoT communication technologies.
+🔹 **Learning**: Machine learning fundamentals, Embedded system design, and IoT communication technologies.
 
 ## 🎯 My Goals  
 
