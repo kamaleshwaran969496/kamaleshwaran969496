@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ About Me  
+## 👨‍💻 About Me  
 
 ### Electronics Student | ML | IoT & Embedded Systems  
 
