@@ -8,9 +8,9 @@
 
 ---
 
-## 🚀 About Me
+## ⚙️ About Me  
 
-### Electronics Student | ML | IoT & Embedded Systems
+### Electronics Student | ML | IoT & Embedded Systems  
 
 🔹 Interested in building systems that combine **machine learning**, **IoT**, and **embedded hardware**.
 
@@ -20,9 +20,9 @@
 
 🔹 **Learning**: Machine learning fundamentals, embedded system design, and IoT communication technologies.
 
-## 🎯 My Goals
+## 🎯 My Goals  
 
-🔹 Apply machine learning in **real-world embedded and IoT systems**.
+🔹 Apply machine learning in **real-world embedded and IoT systems**. 
 
 🔹 Improve understanding of **low-power system design and communication protocols**.
 
