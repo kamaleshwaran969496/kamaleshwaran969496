@@ -91,7 +91,7 @@
 ### ⚡ Power & Communication Improvements (Upcoming)
 ✔️ Continuation of the Edge Intelligence-based Smart Soldier Safety Monitoring System.  
 ✔️ Power stability using Lithium-ion battery with AMS1117-3.3V Voltage regulator module and TP4056 Battery Protection (BMS) module.  
-✔️ These AMS1117-3.3V and TP4056 module is to prevent damage due to voltage fluctuations caused by Lithium-ion battery. 
+✔️ These AMS1117-3.3V and TP4056 module is to prevent damage due to voltage fluctuations caused by Lithium-ion battery.  
 ✔️ Secure LoRa communication using data encryption.  
 ✔️ Focus on low-power and reliable deployment.  
 
