@@ -26,7 +26,7 @@
 
 🔹 Improve understanding of **low-power system design and communication protocols**.
 
-🔹 Build and document projects combining **AIML, IoT, and embedded systems**.
+🔹 Build and document projects combining **ML, IoT, and embedded systems**.
 
 🔹 Develop practical skills for **engineering and problem-solving** in this domain.
 
