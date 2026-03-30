@@ -76,23 +76,35 @@
 
 ## 🔧 Projects
 
-### 𖥂 Embedded Systems & IoT (Initial Work)
+### 𖥂 Embedded Systems & IoT (Initial Work)  
+
 ✔️ Weather Monitoring and Forecasting Drone (prototype stage).  
+
 ✔️ Basic experience in sensor integration and system setup.  
 
-### 🪖 Edge Intelligence-based Smart Soldier Safety Monitoring System (Ongoing)
+### 🪖 Edge Intelligence-based Smart Soldier Safety Monitoring System (Ongoing)  
+
 ✔️ IEEE paper project on Real-time Soldier Safety Monitoring using Edge Intelligence with a simple ML model.  
+
 ✔️ ESP32 WROOM-32 microcontroller and LoRa-based communication between transmitter and receiver (LoRa Ra-02 module is used).  
+
 ✔️ Sensor integration: MAX30102 (Heart Rate + SpO2), MPU6050 (Motion), DHT22 (Temperature and Humidity), GPS NEO-6M.  
+
 ✔️ Simple ML model-Decision Tree for basic health risk prediction.  
+
 ✔️ AWS cloud integration for data storage and monitoring.  
  
 
-### ⚡ Power & Communication Improvements (Upcoming)
+### ⚡ Power & Communication Improvements (Upcoming)  
+
 ✔️ Continuation of the Edge Intelligence-based Smart Soldier Safety Monitoring System.  
+
 ✔️ Power stability using Lithium-ion battery with AMS1117-3.3V Voltage regulator module and TP4056 Battery Protection (BMS) module.  
+
 ✔️ These AMS1117-3.3V and TP4056 module is to prevent damage due to voltage fluctuations caused by Lithium-ion battery.  
+
 ✔️ Secure LoRa communication using data encryption.  
+
 ✔️ Focus on low-power and reliable deployment.  
 
 ---
