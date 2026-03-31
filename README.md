@@ -1,6 +1,6 @@
 <h1 align="center">Kamaleshwaran M</h1>
 <h3 align="center">Electronics and Communication Engineering student (2nd year)</h3>
-<h3 align="center">ML | IoT | Embedded Systems</h3>
+<h3 align="center">IoT | ML | Embedded Systems</h3>
   
 <p align="center">
 📫 Email: <b>klr969496@gmail.com</b>
