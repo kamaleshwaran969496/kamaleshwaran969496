@@ -3,7 +3,7 @@
 <h3 align="center">ML | IoT | Embedded Systems</h3>
   
 <p align="center">
-📫 Email: <b>ksr969496@gmail.com</b>
+📫 Email: <b>klr969496@gmail.com</b>
 </p>
 
 ---
