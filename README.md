@@ -72,8 +72,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/easyeda_rounded.png" width="70"/>
-  <img src="assets/pspice_rounded.png" width="70"/>
+  <img src="assets/easyeda_rounded.png" height="48"/>
+  <img src="assets/pspice_rounded.png" height="48"/>
 </p>
 
 
