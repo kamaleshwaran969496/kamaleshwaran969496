@@ -71,6 +71,14 @@
   </a>
 </p>
 <p align="center">
+  <!-- skillicons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,python,cpp" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- custom logos -->
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/EasyEDA_logo.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/PSpice_Logo.png" height="50"/>
 </p>
