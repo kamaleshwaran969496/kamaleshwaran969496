@@ -61,6 +61,11 @@
   </a>
 </p>
 <p align="center">
+  <img src="assets/easyeda_rounded.png" height="48"/>
+  &nbsp;
+  <img src="assets/pspice_rounded.png" height="48"/>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java" />
   </a>
@@ -71,11 +76,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/easyeda_rounded.png" height="48"/>
-  &nbsp;&nbsp;
-  <img src="assets/pspice_rounded.png" height="48"/>
-</p>
+
 
 
 
