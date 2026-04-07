@@ -71,7 +71,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.easyeda.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/easyeda/easyeda-original.svg" alt="easyeda" width="40" height="40"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/EasyEDA_logo.png" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/PSpice_Logo.png" height="50"/>
 </p>
 
 
