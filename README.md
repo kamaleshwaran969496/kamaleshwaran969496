@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="assets/easyeda_rounded.png" height="48"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="assets/pspice_rounded.png" height="48"/>
 </p>
 
