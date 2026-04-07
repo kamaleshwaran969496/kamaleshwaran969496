@@ -72,8 +72,15 @@
 </p>
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.oQVKVZQnZJgGRV6pA7T5awHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="60" alt="EasyEDA"/>
-  <img src="https://tse4.mm.bing.net/th/id/OIP.LUFMv2GR5dq0mRY-DXEPZQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" height="60" alt="PSpice"/>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.oQVKVZQnZJgGRV6pA7T5awHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+       height="70"
+       style="border-radius:15px; margin:10px;"
+       alt="EasyEDA"/>
+
+  <img src="https://tse4.mm.bing.net/th/id/OIP.LUFMv2GR5dq0mRY-DXEPZQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+       height="70"
+       style="border-radius:15px; margin:10px;"
+       alt="PSpice"/>
 </p>
 
 
