@@ -42,7 +42,7 @@
 ---
 
 
-### IDE and Tools I Use
+### IDE and Tools I Use:
 
 <p align="center">
   <a href="https://skillicons.dev">
