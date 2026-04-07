@@ -70,6 +70,10 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.easyeda.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/easyeda/easyeda-original.svg" alt="easyeda" width="40" height="40"/> </a>
+</p>
+
 
 
 ---
