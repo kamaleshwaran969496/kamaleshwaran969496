@@ -90,7 +90,7 @@
 
 ✔️ Basic experience in sensor integration and system setup.  
 
-### 🪖 Edge Intelligence-based Smart Soldier Safety Monitoring System (Ongoing)  
+### 🪖 ML-Based Smart Soldier Health Monitoring and Risk Prediction System (Ongoing)  
 
 ✔️ IEEE paper project on Real-time Soldier Safety Monitoring using Edge Intelligence with a simple ML model.  
 
