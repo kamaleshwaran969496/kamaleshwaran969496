@@ -90,9 +90,9 @@
 
 ✔️ Basic experience in sensor integration and system setup.  
 
-### 🪖 ML-Based Smart Soldier Health Monitoring and Risk Prediction System (Ongoing)  
+### 🪖 Decision Tree Based Machine Learning Framework for Early Risk Prediction in Soldier Health Monitoring Using IoT and LoRa Communication  
 
-✔️ IEEE paper project on Real-time Soldier Safety Monitoring using Edge Intelligence with a simple ML model.  
+✔️ IEEE paper project on Real-time Soldier Safety Monitoring using Edge Intelligence with a ML Decision Tree model.  
 
 ✔️ ESP32 WROOM-32 microcontroller and LoRa-based communication between transmitter and receiver (LoRa Ra-02 module is used).  
 
